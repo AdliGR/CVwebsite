@@ -75,6 +75,13 @@ background: linear-gradient(180deg, rgba(48,227,203,1) 0%, rgba(43,196,173,1) 54
     margin-bottom: 80px;
 }
 
+.expertcode{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 80px;
+}
+
 .gamesimg{
     width: 25%;
     float: right;
