@@ -76,10 +76,7 @@ background: linear-gradient(180deg, rgba(48,227,203,1) 0%, rgba(43,196,173,1) 54
 }
 
 .expertcode{
-    width: 25%;
-    float: left;
-    margin-right: 30px;
-    margin-bottom: 80px;
+
 }
 
 .gamesimg{
@@ -132,4 +129,8 @@ background: linear-gradient(180deg, rgba(48,227,203,1) 0%, rgba(43,196,173,1) 54
 .myname{
     color: #EAF6F6;
     padding-top:50px;
+}
+
+.img-project{
+    
 }
